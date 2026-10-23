@@ -1,0 +1,6 @@
+node_modules
+dist
+# lixo do Windows ao descarregar ficheiros
+*:Zone.Identifier
+# cópias originais (as usadas estão em public/fotos)
+/fotos/
